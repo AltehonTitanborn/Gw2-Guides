@@ -47,7 +47,9 @@ Lanza 10 fuegos artificiales, los lanzadores de fuegos artificiales se encuentra
 
 Existen 2 rutas para realizar esta diaria.
 - Empleado [Fuegos artificiales del festival del dragonicido](https://wiki.guildwars2.com/wiki/Dragon_Bash_Fireworks) (_Recomendada_):
+
 ![DragonBashFirework](dragonBashFirework.png)
+
 Este item otorga un total de 9 cargas de fuegos artifiales dejando uno solo faltante.
 - Sin emplear items adicionales. Activar 10 lanzadores de fuegos artificiales repartidos por Hoelbrak.
 
