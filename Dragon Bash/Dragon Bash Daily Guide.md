@@ -2,7 +2,6 @@
 title: Dragon Bash Daily Guide
 author: Altehon
 date: June 29, 2019
-output: pdf_document
 ---
 
 # Dragon Bash Daily Guide 
