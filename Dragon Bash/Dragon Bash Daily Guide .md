@@ -28,6 +28,7 @@ Esta festividad puede tener las siguientes diarias:
 ### <a id="ElderTaffy">Anciamelos / Elder Taffy</a>
 
 Consume 25 [zaitamelos](https://wiki.guildwars2.com/wiki/Piece_of_Zhaitaffy). Se pueden conseguir con el resto de diarias, al abrir los [cofres del dragón](https://wiki.guildwars2.com/wiki/Dragon_Coffer) o comprarlos en el leon negro.
+
 ![zhaitaffyConsume](zhaitaffyConsume.png)
 
 
@@ -42,7 +43,9 @@ Derrota a 30 enemigos del evento. Se puede realizar durante las diarias:
 ### <a id="AimForTheSky">Apunta al cielo / Aim for the Sky</a>
 
 Lanza 10 fuegos artificiales, los lanzadores de fuegos artificiales se encuentran repartidos por Hoelbrak: 
+
 ![fireworkLauncher](fireworkLauncher.png)
+
 Existen 2 rutas para realizar esta diaria.
 - Empleado [Fuegos artificiales del festival del dragonicido](https://wiki.guildwars2.com/wiki/Dragon_Bash_Fireworks) (_Recomendada_):
 ![DragonBashFirework](dragonBashFirework.png)
@@ -62,14 +65,19 @@ Este evento ocurre cada 15 minutos en los mapas colindantes con Hoelbrak. Rotand
 - xx:45 - Cúmulos de Guaridanieve [Norte]
 
 Se puede acceder al siguiente mapa del evento mediante el indicador del evento en la parte superior derecha de la pantalla.
+
 ![dragonBashEvent](dragonBashEvent.png)
+
 Haciendo click izquierdo sobre el indicador de "La siguiente estampida..." la camara te direccionara al punto de ruta correspondiente.
 
 __Importante__! El indicador siempre marca la siguiente, por lo tanto, si le das a las xx:00 te marcara el que empieza a las xx:15 y tendras que esperar 15 minutos hasta que empiece en ese mapa, por lo tanto se recomienda viajar al mapa antes de la hora.
 
 El evento consiste en combatir criaturas holograficas en las localizaciones marcadas.
+
 ![dragonBashTag](dragonBashTag.png)
+
 ![holoDragonBash](holoDragonBash.png)
+
 El evento tiene 3 rondas, en cada ronda hay que activar y derrotar a los enemigos provenientes de marcador holografico en cada localizacion marcada en el mapa.
 
 Se recomienda participar al menos en un marcador holografico por ronda para asegurar que cuente la participacion.
