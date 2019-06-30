@@ -140,6 +140,9 @@ Para compenzar esta aventura hablar con el npc con el simbolo de aventura sobre 
 La ruta recomendada por gw2 wiki es la siguiente.
 ![pinataBashingRute](https://wiki.guildwars2.com/images/thumb/b/b5/Pinata_Bashing_map.jpg/672px-Pinata_Bashing_map.jpg)
 
+Ruta recomendada por mi.
+![pinataBashingOwnRoute](pinataBashingRoute.png)
+
 Recomendaciones sobre esta aventura: 
 - La habilidad 2 se resetea al activar la habilidad 3
 - La habilidad 2 se puede activar en mitad del aire para un aterrizaje más preciso.
